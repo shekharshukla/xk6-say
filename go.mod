@@ -1,4 +1,4 @@
-module github.com/shekharshukla/xk6-say
+module github.com/dgzlopes/xk6-say
 
 go 1.15
 
